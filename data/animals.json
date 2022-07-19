@@ -101,11 +101,12 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Chuck Chuck",
+      "species": "Rhino",
+      "diet": "herbivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "goofy"
       ],
       "id": "10"
     }
