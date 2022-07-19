@@ -99,16 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Chuck Chuck",
-      "species": "Rhino",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry",
-        "goofy"
-      ],
-      "id": "10"
     }
   ]
 }
